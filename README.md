@@ -1,10 +1,10 @@
 <p align="center">
-    <img src="https://telegra.ph/file/def4a4c5f63aaaa69d5d1.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/file/db3df75a52679586eba7a.png" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">SkyBot New V1</h1>
 
-[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6289518887904)
-[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6289503433262)
+[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285783348918)
+[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282328190003)
 
 ---
 
