@@ -39,19 +39,19 @@ const readMore = more.repeat(4001);
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.owner = [["6289503433262", "BLUE CKKN", true]];
+global.owner = [["6282328190003", "Luhung", true]];
 global.mods = [];
 global.prems = [];
-global.nomorbot = "6282172622047";
-global.nomorown = "6289503433262";
-global.nomorown1 = "6289503433262";
-global.nomorown2 = "6289503433262";
+global.nomorbot = "6285783348918";
+global.nomorown = "6282328190003";
+global.nomorown1 = "6282328190003";
+global.nomorown2 = "6282328190003";
 global.nomorwa = "0";
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown = "BLUECKKN";
-global.nameown1 = "BLUECKKN";
-global.nameown2 = "BLUECKKN";
+global.nameown = "Luhung";
+global.nameown1 = "Luhung";
+global.nameown2 = "Luhung";
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.swb = "https://blueckkn.repl.co/";
@@ -63,24 +63,24 @@ global.sgc = global.swb + "gc";
 global.snh = "https://nhentai.net/g/767842";
 global.sfb = "-";
 global.sgh = "-";
-global.sgm = "fongsiapi@gmail.com";
-global.ageowner = "2011-01-13";
+global.sgm = "cluhumg@gmail.com";
+global.ageowner = "2010-05-05";
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.readMore = readMore;
-global.author = "┄┄┄┅┅❑ BLUECKKN ❑┅┅┄┄┄";
-global.packname = "BLUE CKKN BOT WhatsApp";
-global.namebot = "「 BLUECKKN BOT ⁩㊣ 」";
+global.author = "┄┄┄┅┅❑ ルフン・ボッツ ❑┅┅┄┄┄";
+global.packname = "6285783348918";
+global.namebot = "「 ルフン・ボッツ ⚡︎ 」";
 global.namebot_1 = "BKN-MD";
-global.wm = "「 BLUECKKN BOT あ⁩ 」"; //Main Watermark
+global.wm = "「 ルフン・ボッツ⁩ 」"; //Main Watermark
 global.media = "https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg";
-global.watermark = "⫹⫺ BLUECKKN 𝗕𝗢𝗧";
+global.watermark = "⫹⫺ ルフン・ボッツ";
 global.wm2 = "¸„٭⊹•~⍣°”ˆ˜¨ BLUECKKNBOT-Md¨˜ˆ”°⍣~•⊹٭„¸";
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`;
 global.bottime = `T I M E : ${wktuwib}`;
 global.titlebot = "𝗥𝗣𝗚 | Whatsapp ʙᴏᴛ By BLUECKKN";
 global.stickpack = "🍀";
-global.stickauth = `📮 • Yt :\n⤷ BLUECKKN\n⤷ ${syt}`;
+global.stickauth = `📮 • Yt :\n⤷ LUHUNGCH\n⤷ ${syt}`;
 global.week = `${week} ${date}`;
 global.wibb = `${wktuwib}`;
 
@@ -89,17 +89,17 @@ global.Linkgc = "Bentar";
 global.lynk = "𝐆𝐝𝐚 𝐖𝐤𝐰𝐤";
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = "6289503433262"; //dana
+global.pdana = "085643516329"; //dana
 global.povo = "-"; //ovo
 global.pgopay = "-"; //gopay
 global.plinkaja = "-"; //link aja
-global.ppulsa = "6289503433262"; //telkomsel
-global.ppulsa2 = "6281378163495 ( 20% Bonus )"; // kalau ada kartu lain isi aja
-global.psaweria = "https://saweria.co/blueckkn";
+global.ppulsa = "085643516329"; //telkomsel
+global.ppulsa2 = "085643516329 ( 20% Bonus )"; // kalau ada kartu lain isi aja
+global.psaweria = "https://saweria.co/luhungch";
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.ListHargaSewa =
-  "├ 5 Hari IDR 3.000\n├ 7 Hari IDR 5.000\n├ 15+5 Hari IDR 10.000\n├ 30 Hari IDR 15.000";
+  "⧽⧽ 7 Hari IDR 3.000\n⧽⧽ 14 Hari IDR 6.000\n⧽⧽ 28 Hari IDR 12.000\n⧽⧽ Perm IDR 24.000";
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.LyAtas1 = "☰ ━━━ ❨";
 global.LyAtas2 = "❩ ━━┄┈ •⟅";
