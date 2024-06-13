@@ -68,17 +68,17 @@ global.ageowner = "2010-05-05";
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.readMore = readMore;
-global.author = "┄┄┄┅┅❑ ルフン・ボッツ ❑┅┅┄┄┄";
+global.author = "┄┄┄══⪼ ルフン・ボッツ ⪻══┄┄┄";
 global.packname = "6285783348918";
-global.namebot = "「 ルフン・ボッツ ⚡︎ 」";
-global.namebot_1 = "BKN-MD";
+global.namebot = "『 ルフン・ボッツ ⚡︎ 』";
+global.namebot_1 = "ルフン";
 global.wm = "「 ルフン・ボッツ⁩ 」"; //Main Watermark
 global.media = "https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg";
 global.watermark = "⫹⫺ ルフン・ボッツ";
-global.wm2 = "¸„٭⊹•~⍣°”ˆ˜¨ BLUECKKNBOT-Md¨˜ˆ”°⍣~•⊹٭„¸";
+global.wm2 = "ルフン・ボッツ +6285783348918";
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`;
 global.bottime = `T I M E : ${wktuwib}`;
-global.titlebot = "𝗥𝗣𝗚 | Whatsapp ʙᴏᴛ By BLUECKKN";
+global.titlebot = "𝗥𝗣𝗚 | Whatsapp ʙᴏᴛ By ルフン・ʟᴜʜᴜɴɢᴄʜ";
 global.stickpack = "🍀";
 global.stickauth = `📮 • Yt :\n⤷ LUHUNGCH\n⤷ ${syt}`;
 global.week = `${week} ${date}`;
